@@ -6,3 +6,13 @@ I am a new fish at the moment 🐳, which means I am a student in a awesome boot
 
 ### Each good profile needs a cat!
 ![Hello Cat](https://media.tenor.com/n4iEHoLDLqkAAAAM/kitty-kitten.gif)
+
+### Things I'll gonna learn in near future:
+- HTML5
+- CSS
+- JavaScript
+- React
+- Agile
+- MongoDB
+
+Thanks for visiting!
