@@ -5,6 +5,6 @@ located in Hamburg
 ![Hello Cat](https://media.tenor.com/n4iEHoLDLqkAAAAM/kitty-kitten.gif)
 
 ### Stack
-- option c
-- option v
+- command c
+- command v
 
