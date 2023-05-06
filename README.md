@@ -5,6 +5,7 @@
 </picture>
 
 ### Stack
+- "How to center a div?"
 - command c
 - command v
 
